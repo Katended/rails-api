@@ -77,7 +77,7 @@ git@github.com:Katended/rails_backend.git
 
 ### 🚀 Front-end Link
 
-[Front-end link](git@github.com:Katended/react_frontend.git)
+[Front-end link](https://github.com/Katended/react-iu)
 
 ### Usage
 
